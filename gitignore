@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Power BI temp files
+*.pbix.bak
+~$*
+
+# Tableau temp files
+*.twbx.lock
+
+# Excel temp files
+~$*.xlsx
